@@ -9,13 +9,14 @@
 ### 🚀 **Sobre mim**
 - 💻 Atualmente estudando **Python e Java**
 - 📖 Sempre buscando aprender e evoluir na programação
-- 🎮 Gosto de jogos como **Project Zomboid** 🏴‍☠️
+- 🎮 Gosto de jogos como **Project Zomboid e League of Legends** 🏴‍☠️
 - 🏋️‍♂️ Praticante de musculação
 
 ---
 
 ### 📊 **Minhas Estatísticas no GitHub**
-![Mateus Szabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusszabo&show_icons=true&theme=radical)
+![Mateus Szabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusszabo&show_icons=true&count_private=true&theme=radical)
+
 
 ---
 
@@ -24,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
 </div>
 
