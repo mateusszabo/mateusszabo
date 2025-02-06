@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Mateus Szabo
+## 👋 Olá! Sou o Mateus Szabo
 
 🎯 **Em busca do meu primeiro trabalho na área da programação!**  
 🎓 **Estudante de Engenharia da Computação**  
