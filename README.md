@@ -17,6 +17,9 @@
 ### 📊 **Minhas Estatísticas no GitHub**
 ![Mateus Szabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusszabo&show_icons=true&count_private=true&theme=radical)
 
+### 🏆 **Linguagens mais usadas**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusszabo&layout=compact&theme=radical)
+
 
 ---
 
