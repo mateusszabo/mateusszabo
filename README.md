@@ -2,7 +2,7 @@
 
 🎯 **Em busca da minha primeira oportunidade na área da programação!**  
 🎓 **Estudante de Engenharia da Computação**  
-📧 **Entre em contato: mateus_42649@aluno.eseg.edu.br 
+📧 **Entre em contato**: mateus_42649@aluno.eseg.edu.br
 
 ---
 
