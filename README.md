@@ -13,17 +13,6 @@
 
 ---
 
-### 📊 **Minhas Estatísticas no GitHub**
-![Mateus Szabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusszabo&show_icons=true&count_private=true&theme=radical&cache=0
-)
-
-### 🏆 **Linguagens mais usadas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusszabo&layout=compact&theme=radical&cache=0)
-
-
-
----
-
 ### 🛠️ **Tecnologias e Ferramentas**
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
