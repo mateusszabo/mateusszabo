@@ -1,13 +1,13 @@
 ## 👋 Olá! Sou o Mateus Szabo
 
-🎯 **Em busca da minha primeira oportunidade na área da programação!**  
+🎯 **Em busca de aprimorar meu conhecimento na programação!**  
 🎓 **Estudante de Engenharia da Computação**  
-📧 **Entre em contato**: mateus_42649@aluno.eseg.edu.br
+📧 **Entre em contato**: mateusszabo@gmail.com
 
 ---
 
 ### 🚀 **Sobre mim**
-- 💻 Atualmente estudando Java e SQL
+- 💻 Atualmente estudando Java/Spring
 - 📖 Sempre buscando aprender e evoluir na programação
 - 🏋️‍♂️ Praticante de musculação
 
